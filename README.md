@@ -9,21 +9,27 @@
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=F72C9A&center=true&vCenter=true&width=1050&lines=Senior+full+stack+developer!;Detail+oriented+front-end+developer!;Eager+to+learn+new+technologies!" alt="Typing SVG" /></a>
     </h1>
 
-Greetings!
-My name is Louis Walter and I'm a Senior Full Stack Developer with rich experience.
+Hello 👋, 
 
-Skills:
+I'm Hazel, a dedicated Full Stack Developer with a passion for building modern web applications. My 5-year journey began with a comprehensive computer science degree, providing a strong foundation in software engineering principles, which I have now successfully applied for over years in a professional setting delivering real-world projects.
 
-- Front-end technologies: HTML, CSS, JavaScript, TypeScript
-- Front-end frameworks: React, Angular, Vue.js, Alpine.js, Gatsby.js, Svelte
-- Mobile App technologies: React Native, Ionic (Angular, React, Vue), Flutter
-- Back-end technologies: Node.js, Ruby on Rails, Nest.js, Laravel
-- Database technologies: MySQL, MongoDB, PostgreSQL
-- UI frameworks: Tailwind CSS, BootStrap, Material UI, Chakra UI
-- Version control systems: Git, Bitbucket, SVN
-- Cloud services: AWS, Google Cloud Platform, Microsoft Azure
+I am proficient in both front-end and back-end development within the Next.js environment, including App Router, Server-Side Rendering (SSR), Static Site Generation (SSG), and API Routes. My passion is for creating efficient, maintainable, and scalable code that aligns with business goals and user needs.
 
-I take a collaborative approach to project management, working closely with clients to understand their goals and delivering solutions that exceed their expectations.
+Core Competencies Include:
+
+- Framework Expertise: Next.js 15+ (App Router & Pages Router), React 19+, Redux Toolkit, TanStack Query.
+
+- Frontend Development: TypeScript, JavaScript (ES6+), Tailwind CSS, Shadcn/UI, Framer Motion, Zustand.
+
+- Backend Development: Next.js API Routes, Node.js, Express.js, RESTful API design, Authentication (Auth.js, Next-Auth).
+
+- Database & ORM: Prisma, MongoDB, PostgreSQL, Drizzle, Vercel Postgres.
+
+- DevOps & Deployment: Vercel (Primary), AWS Amplify, Docker, CI/CD pipelines, Git.
+
+- Performance & Optimization: Core Web Vitals, Lighthouse, SEO optimization, caching strategies.
+
+I am excited about the possibility of bringing my dedication and skills to a new challenge. Please feel free to connect or reach out to me to discuss how I can add value to your projects.
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
