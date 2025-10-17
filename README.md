@@ -11,7 +11,7 @@
 
 Hello 👋, 
 
-I'm Hazel, a dedicated Full Stack Developer with a passion for building modern web applications. My 7-year journey began with a comprehensive computer science degree, providing a strong foundation in software engineering principles, which I have now successfully applied for over years in a professional setting delivering real-world projects.
+I'm Louis, a dedicated Full Stack Developer with a passion for building modern web applications. My 7-year journey began with a comprehensive computer science degree, providing a strong foundation in software engineering principles, which I have now successfully applied for over years in a professional setting delivering real-world projects.
 
 I am proficient in both front-end and back-end development within the Next.js environment, including App Router, Server-Side Rendering (SSR), Static Site Generation (SSG), and API Routes. My passion is for creating efficient, maintainable, and scalable code that aligns with business goals and user needs.
 
